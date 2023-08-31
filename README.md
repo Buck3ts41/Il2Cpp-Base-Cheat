@@ -19,7 +19,7 @@ other games!!
 Compile in Release x64
 
 # Usage - Source
-
-compile and inject, i used Process hacker 2
+Install MinHook.
+compile and inject, i used Process hacker 2.
 
 # if you need help, start an issue!
